@@ -32,5 +32,7 @@ En utilisant cette structure de projet, vous pouvez facilement organiser votre c
 lancer le script  make_struct.sh pour generer cette sctructure automatiquement
 
 ```bash
-    chmod +x make_struct.sh
+
+chmod +x make_struct.sh
+
 ```
