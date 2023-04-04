@@ -2,7 +2,7 @@
 
 Cette structure de projet est conçue pour organiser efficacement les différentes étapes de votre projet de data science, depuis l'analyse des données jusqu'à la modélisation. Voici un aperçu de chaque répertoire :
 
-## analysis/
+## analysis
 
 Ce répertoire contient deux sous-répertoires :
 
@@ -11,7 +11,7 @@ Ce répertoire contient deux sous-répertoires :
 
 Vous pouvez facilement partager ces notebooks avec votre équipe pour une collaboration facile.
 
-## data/
+## data
 
 Ce répertoire contient trois sous-répertoires :
 
@@ -19,7 +19,7 @@ Ce répertoire contient trois sous-répertoires :
 - "raw" : contient les données brutes, telles qu'elles ont été récupérées à partir de la source de données.
 - "processing" : pour stocker les données traitées et nettoyées, prêtes pour l'analyse.
 
-## modeling/
+## modeling
 
 Ce répertoire contient trois sous-répertoires :
 
