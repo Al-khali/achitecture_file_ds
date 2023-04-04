@@ -29,3 +29,8 @@ Ce répertoire contient trois sous-répertoires :
 
 En utilisant cette structure de projet, vous pouvez facilement organiser votre code et vos données pour un développement et une collaboration efficaces avec votre équipe. N'hésitez pas à ajouter d'autres répertoires si nécessaire en fonction de vos besoins spécifiques de projet.
 
+lancer le script  make_struct.sh pour generer cette sctructure automatiquement
+
+'''bash
+    chmod +x make_struct.sh
+'''
